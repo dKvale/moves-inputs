@@ -21,7 +21,8 @@ output: html_document
 
 Big changes  
 
-1.  Increase of 7-8% in heavier vehicles: SUVs / Trucks / Vans.    
+1.  People are buying bigger cars.
+    - Increase of 7-8% in heavier vehicles: SUVs / Trucks / Vans.    
 1.  The fleet got older.  
     - Average age of vehicles increased during recession.  
     - Rate of new car purchases still behind 2005 rate.  
