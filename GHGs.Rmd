@@ -8,7 +8,7 @@ output: html_document
 
 ## GHG differences  
   
-> Fuel sales: 2005 to 2012 shows ~~7%~~ __5.5%__ drop after 2012 diesel corrected (6% increase)  
+> FUEL SALES: 2005 to 2012 shows ~~7%~~ __5.5%__ drop after 2012 diesel corrected (6% increase)  
 
 
 > MOVES: 2005 to 2012 shows ~~1%~~ 3% drop after VMT update (1.5% VMT increase for 2005 - 2007)  
@@ -20,6 +20,7 @@ output: html_document
 ## Why aren't MOVES emissions decreasing more quickly?
 
 Big changes  
+
 1.  Increase of 7-8% in heavier vehicles: SUVs / Trucks / Vans.    
 1.  The fleet got older.  
     - Average age of vehicles increased during recession.  
@@ -27,6 +28,7 @@ Big changes
 
 
 Small changes  
+
 1.  E0 premium sales have increased 12%.  
 1.  E-85 use plateaued after 2008.  
 1.  Small increase in diesel use.  
