@@ -39,7 +39,8 @@ Small changes
 
 ## Why don't fuel sales show a smaller decrease?
 
-1.  In 2005, the FHWA apportioned the largest percentage of fuel sales to on-road vehicles (~1% more), and a smaller portion to non-road.
+1.  The inventory under reported diesel sales in 2012 by 60 million gallons (~6%).
+2.  In 2005 the FHWA apportioned the largest percentage of fuel sales to on-road vehicles (~1% more), and a smaller portion to non-road.
 
 
 FHWA fuel reference   
