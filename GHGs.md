@@ -20,27 +20,27 @@ output: html_document
 ## Why aren't MOVES emissions decreasing more quickly?
 
 Big changes  
-1. Increase of 7-8% in heavier vehicles: SUVs / Trucks / Vans.  
-1. The fleet got older.  
-  - Average age of vehicles increased during recession.  
-  - Rate of new car purchases still behind 2005 rate.  
+1.  Increase of 7-8% in heavier vehicles: SUVs / Trucks / Vans.    
+1.  The fleet got older.  
+    - Average age of vehicles increased during recession.  
+    - Rate of new car purchases still behind 2005 rate.  
 
 
 Small changes  
-1. E0 premium sales have increased 12%.  
-1. E-85 use plateaued after 2008.  
-1. Small increase in diesel use.  
-1. Travel model shows more vehicles traveling over 70 mph on rural highways.  
-  - > 67% in 2005  
-  - > 75% in 2014  
+1.  E0 premium sales have increased 12%.  
+1.  E-85 use plateaued after 2008.  
+1.  Small increase in diesel use.  
+1.  Travel model shows more vehicles traveling over 70 mph on rural highways.  
+    - > 67% in 2005  
+    - > 75% in 2014  
 
 
 ## Why don't fuel sales show a smaller decrease?
 
-1. In 2005, the FHWA apportioned the largest percentage of fuel sales to on-road vehicles (~1% more), and a smaller portion to non-road.
+1.  In 2005, the FHWA apportioned the largest percentage of fuel sales to on-road vehicles (~1% more), and a smaller portion to non-road.
 
 
-FHWA fuel referene   
+FHWA fuel reference   
 
   - [Diesel 2005 to 2013 - Public Data Explorer](https://www.google.com/publicdata/explore?ds=gb66jodhlsaab_#!ctype=l&strail=false&bcs=d&nselm=h&met_y=Special_Fuel&scale_y=lin&ind_y=false&rdim=state&idim=state:MN&ifdim=state&tstart=1118898000000&tend=1371358800000&hl=en_US&dl=en_US&ind=false)   
   - [2005 - 2014 - FHWA Report MF21](https://www.fhwa.dot.gov/policyinformation/statistics/2014/mf21.cfm)  
